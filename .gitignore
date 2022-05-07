@@ -35,5 +35,5 @@ hs_err_pid*
 .gitignore
 .idea/
 design_mode.iml
-pom.xml
+
 target/
