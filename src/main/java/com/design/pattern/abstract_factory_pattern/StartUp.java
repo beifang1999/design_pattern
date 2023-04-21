@@ -1,4 +1,4 @@
-package com.design.mode.abstract_factory_pattern;
+package com.design.pattern.abstract_factory_pattern;
 
 
 /**

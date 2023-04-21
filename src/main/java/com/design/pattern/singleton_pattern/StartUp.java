@@ -1,4 +1,4 @@
-package com.design.mode.singleton_pattern;
+package com.design.pattern.singleton_pattern;
 
 public class StartUp {
     public static void main(String[] args) {

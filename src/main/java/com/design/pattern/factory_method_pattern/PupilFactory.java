@@ -1,4 +1,4 @@
-package com.design.mode.factory_method_pattern;
+package com.design.pattern.factory_method_pattern;
 
 public class PupilFactory implements Factory{
     public Student createStudent(String name, Long age) {

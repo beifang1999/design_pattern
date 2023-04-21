@@ -1,6 +1,4 @@
-package com.design.mode.prototype_pattern;
-
-import org.openjdk.jol.vm.VM;
+package com.design.pattern.prototype_pattern;
 
 import java.io.*;
 

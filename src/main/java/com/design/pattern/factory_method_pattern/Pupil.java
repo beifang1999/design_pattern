@@ -1,4 +1,4 @@
-package com.design.mode.factory_method_pattern;
+package com.design.pattern.factory_method_pattern;
 
 public class Pupil extends Student {
     public Pupil() {
