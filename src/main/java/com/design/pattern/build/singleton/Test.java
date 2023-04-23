@@ -1,6 +1,5 @@
 package com.design.pattern.build.singleton;
 
-import java.lang.annotation.Annotation;
 import java.lang.reflect.Constructor;
 
 public class Test {
@@ -36,7 +35,6 @@ public class Test {
 
         //判断通过反射创建的两个Singleton对象是否是同一个对象
         System.out.println(s1 == s2);
-
 
 
     }
