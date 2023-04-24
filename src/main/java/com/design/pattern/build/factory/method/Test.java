@@ -14,8 +14,5 @@ public class Test {
         coffeeStore = new CoffeeStore(new LatteCoffeeFactory());
         coffee = coffeeStore.orderCoffee();
         coffee.getName();
-
-
-
     }
 }

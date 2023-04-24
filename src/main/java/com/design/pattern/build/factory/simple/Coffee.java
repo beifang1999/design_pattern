@@ -1,6 +1,8 @@
 package com.design.pattern.build.factory.simple;
 
-public abstract class Coffee {
+import java.io.Serializable;
+
+public abstract class Coffee implements Serializable {
 
     public abstract void getName();
 
